@@ -70,4 +70,4 @@ except FileExistsError:
                 break
 
             else:
-                print("\033[31mInvalid option!\033[m")
+                print("\033[31mInvalid option! \nType again...\033[m")
