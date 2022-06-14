@@ -1,12 +1,13 @@
 # Phone-book
 I created a telephone book.
 
- First I solved this exercise bellow, then I had other ideas and I was adding other options that are useful, likeÇ
+ First I solved this exercise bellow, then I had other ideas and I was adding other options that are useful, like:
  [1]-Add contact 
  [2]-Delete contact
  [3]-Show contact list 
  [4]-Close the telephone book 
 
+EXERCISE:
 Create an AGENDA program that stores to a file
 “contatos.txt” names and telephone numbers of persons as given to
 follow:
